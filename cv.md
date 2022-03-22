@@ -11,9 +11,9 @@ Frontend Developer
 	
 
 ## Skills ##
-* HTML.
-* CSS.
-* JS.
+* HTML
+* CSS
+* JS
 	
 
 ## Education ##
